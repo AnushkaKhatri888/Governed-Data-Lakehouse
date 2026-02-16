@@ -32,6 +32,7 @@ The platform implements **Bronze → Silver → Gold** Delta pipelines with auto
 - Exposed curated **Gold views** through **Databricks SQL Warehouse**
 - Enabled downstream usage in analytics tools like **Power BI** via governed views
 
+![RBAC Masking](Masking_RBAC.png)
 ---
 
 ## Architecture Overview
