@@ -5,8 +5,8 @@
 An end-to-end governed data lakehouse built on **Databricks** to deliver **secure, compliant, and analytics-ready** datasets.  
 The platform implements **Bronze → Silver → Gold** Delta pipelines with automated validation, governance controls via **Unity Catalog**, and enterprise metadata + lineage using **Microsoft Purview**.
 
-> ✅ Timeline: Apr 2025 – Oct 2025  
-> ✅ Focus: Data engineering + governance + secure BI consumption
+> Timeline: Apr 2025 – Oct 2025  
+> Focus: Data engineering + governance + secure BI consumption
 
 ---
 
