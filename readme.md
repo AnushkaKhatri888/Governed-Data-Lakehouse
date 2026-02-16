@@ -1,4 +1,4 @@
-![Dashboard](docs/images/dashboard.png)
+![Dashboard](My_Expenses_portfolio.png)
 
 # Governed Data Lakehouse (Databricks) — Secure Analytics Platform
 
