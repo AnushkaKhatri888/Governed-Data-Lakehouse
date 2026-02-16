@@ -1,3 +1,5 @@
+![Dashboard](docs/images/dashboard.png)
+
 # Governed Data Lakehouse (Databricks) — Secure Analytics Platform
 
 An end-to-end governed data lakehouse built on **Databricks** to deliver **secure, compliant, and analytics-ready** datasets.  
